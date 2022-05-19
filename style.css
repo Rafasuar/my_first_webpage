@@ -5,3 +5,9 @@ body {
     background-size:cover;
     background-attachment: fixed;
 }
+
+div {
+
+    background-color: antiquewhite;
+    background-size:contain;
+}
